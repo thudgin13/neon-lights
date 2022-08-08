@@ -1,7 +1,7 @@
 {
   "name": "neon-lights",
   "displayName": "neon-lights",
-  "description": "If it's not neon it can't be on",
+  "description": "Dark Mode Neon Party with Italics",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
