@@ -102,7 +102,8 @@
 			"name": "regexp operator.quantifier",
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#fba748"
+				"foreground": "#fba748",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -188,6 +189,7 @@
 			"scope": "support.constant.math",
 			"settings": {
 				"foreground": "#caff9d"
+				
 			}
 		},
 		{
@@ -261,7 +263,7 @@
 			"scope": "keyword.operator.logical",
 			"settings": {
 				"foreground": "#ffef00",
-				"fontStyle": "italic"
+				"fontStyle": "italic" 
 			}
 		},
 		{
@@ -340,7 +342,6 @@
 			"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 			"settings": {
 				"foreground": "#04fff3",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -425,7 +426,7 @@
 			"name": "keyword.operator",
 			"scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
 			"settings": {
-				"foreground": "#ffef00",
+				"foreground": "#fefee7",
 				"fontStyle": "italic"
 			}
 		},
@@ -524,7 +525,7 @@
 			"name": "Compound Assignment Operators",
 			"scope": "keyword.operator.assignment.compound",
 			"settings": {
-				"foreground": "#d45cff",
+				"foreground": "#fdb78b",
 				"fontStyle": "italic"
 			}
 		},
@@ -608,7 +609,8 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#008cff"
+				"foreground": "#008cff",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -998,7 +1000,7 @@
 			"name": "illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ff6781"
 			}
 		},
 		{
@@ -1826,13 +1828,6 @@
 			],
 			"settings": {
 				"foreground": "#3dff92"
-			}
-		},
-		{
-			"name": "js/ts italic",
-			"scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
-			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
