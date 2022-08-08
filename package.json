@@ -2,19 +2,19 @@
   "name": "neon-party-lights",
   "displayName": "Neon Party Lights",
   "description": "Dark Mode Neon Party with Italics",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "icon": "images/neon-icon-small.png",
   "publisher": "thudgin13",
   "repository": {
     "type": "git",
     "url": "https://github.com/thudgin13/neon-lights"
-},
+  },
   "keywords": [
-      "neon dark theme",
-      "colorful theme",
-      "colors",
-      "bright",
-      "italic theme"
+    "neon dark theme",
+    "colorful theme",
+    "colors",
+    "bright",
+    "italic theme"
   ],
   "engines": {
     "vscode": "^1.70.0"
