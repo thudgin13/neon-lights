@@ -1,8 +1,17 @@
 {
-  "name": "neon-lights",
-  "displayName": "neon-lights",
+  "name": "neon-party-lights",
+  "displayName": "Neon Party Lights",
   "description": "Dark Mode Neon Party with Italics",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/NEON-icon.png",
+  "publisher": "thudgin13",
+  "keywords": [
+      "neon dark theme",
+      "colorful theme",
+      "colors",
+      "bright",
+      "italic theme"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -14,7 +23,7 @@
       {
         "label": "Neon Lights",
         "uiTheme": "vs-dark",
-        "path": "./themes/Neon Lights-color-theme.json"
+        "path": "./themes/neon-party-color-theme.json"
       }
     ]
   }
